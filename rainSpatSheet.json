@@ -2,6 +2,7 @@
  {
    "UID": "consq_MasterUid",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "rainSpatv 1.8",
    "BgSfx": "",
@@ -18,6 +19,7 @@
  {
    "UID": "consq_GuidePage",
    "TipText": "Welcome to the UK premiere showcase of CONSEQUENCES, an immersive audio AR hip-hop experience.\n\nYou are THE PLAYER, a young hip-hop fan. It's been a while since you've been out on the Grime scene.\n\nFollow the rhymes, meet characters from your past, and choose where to go next.\n\nThis is a cut-down preview of the full version of CONSEQUENCES. The full version has 6x POSSIBLE ENDINGS and over 65 mins of EXCLUSIVE UNRELEASED MATERIAL.\n\nYour phone screen will display hints and tips. If you get lost or aren't sure where to go, press the HELP button for instructions, or find Playlines staff.\n",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -34,6 +36,7 @@
  {
    "UID": "consq_GrimePage",
    "TipText": "Bait - obvious, bad\n\nBare - lots of\n\nBun - burn (esp. cannabis)\n\nBadman - gang member, criminal\n\nCID - plainclothes police officer\n\nEnds - home or neighbourhood\n\nFam - friend, acquaintance\n\nLink - date, be in a relationship with\n\nLong - difficult, hard\n\nMerk - kill, destroy\n\nOn my ones - alone\n\nSafe - good, cool, nice one\n\nShott - sell or deal, esp. drugs\n\nWasteman - bad, terrible",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -50,6 +53,7 @@
  {
    "UID": "consq_CreditsPage",
    "TipText": "Written by Harry Shotta\n\nProduced by Playlines & Muki International\n\nDirected by Rob Morgan\n\n\nFeaturing:\n\nHARRY SHOTTA\nas Barry, Mike & Himself\n\nSTARZ\nas The Ex\n\nAC\nas Lucas\n\nDEEZA\nas Paul & Skinny Guy\n\nENAMIE\nas Ellie\n\nPHANTOM\nas Rookie Rapper\n\nCo D\nas the Bouncer\n\nMusic production by Erb N Dub\nHarry Shotta's management by David Ross\n\nSpatial Audio by Scott Marshall\n\nProgrammer\nJerry Carpenter \n\nLocative technology developed by Dustin Freeman for Playlines\n\nSpecial thanks to Muki Kulhan, Annette Mees & Future of Storytelling\n\nDevised by \nHarry Shotta \nand\nRob Morgan",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -66,6 +70,7 @@
  {
    "UID": "consq_ReadyPage1",
    "TipText": "Plug in your headphones... ...make sure your bluetooth is on and your volume is up.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick",
    "BgSfx": "consq_crowd_3",
@@ -82,6 +87,7 @@
  {
    "UID": "consq_ReadyPage2",
    "TipText": "Move near the bouncer, then wait. BARRY will give you the password.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick",
    "BgSfx": "consq_crowd_3",
@@ -98,6 +104,7 @@
  {
    "UID": "consq_LoadingPage",
    "TipText": "Ready to reset",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick",
    "BgSfx": "",
@@ -114,6 +121,7 @@
  {
    "UID": "consq_LandingPage1",
    "TipText": "Welcome to CONSEQUENCES.\n\nThis pop-up version is exclusive to Raindance.\n\nChecking geolocation. Remain near the START.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick",
    "BgSfx": "",
@@ -130,6 +138,7 @@
  {
    "UID": "consq_LandingPage2",
    "TipText": "They call you THE PLAYER. You've just arrived at the club for a night of Grime and D&B. It's been a while.\n\nYour old mate BARRY told you to meet him here. No surprise, he's late.\n\nTouch PLAY to begin.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick",
    "BgSfx": "consq_crowd_3",
@@ -146,6 +155,7 @@
  {
    "UID": "ClubEntrance1",
    "TipText": "Wait for your old mate BARRY - he can get you past the bouncer.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -162,6 +172,7 @@
  {
    "UID": "ClubEntrance2",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "ConsqPlayable_Phone_ringing",
@@ -178,6 +189,7 @@
  {
    "UID": "consq_call",
    "TipText": "Wait for your old mate BARRY - he can get you past the bouncer.",
+   "PreTipText": "",
    "StorySoFarText": "It's a while since you've been out on the scene, but some things never change: BARRY was late.",
    "FgSfx": "consq_Mach1_CALL",
    "BgSfx": "",
@@ -194,6 +206,7 @@
  {
    "UID": "consq_call_replay",
    "TipText": "Barry's late again. Wait for him to give you the password.",
+   "PreTipText": "",
    "StorySoFarText": "BARRY's late again. It's a long time since you've been out on the scene... or is it? What choices will you make tonight?",
    "FgSfx": "consq_call_rd",
    "BgSfx": "",
@@ -210,6 +223,7 @@
  {
    "UID": "ClubEntrance3",
    "TipText": "Get ready to FOLLOW THE RHYMES. In a minute, your old mate BARRY will call you. Follow his instructions... for now.\nTap NEXT when ready.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "sndClick,Silence",
    "BgSfx": "consq_crowd_3",
@@ -226,6 +240,7 @@
  {
    "UID": "consq_queue",
    "TipText": "The password is \"SHOTTA\". Say it to the bouncer to get inside.\n\nBut shh! Keep it to yourself!",
+   "PreTipText": "Head down the gallery towards the bouncer, then wait for Barry to find you.",
    "StorySoFarText": "After a bit of argy-bargy with the bouncer, BARRY gave you the password to get into the club.",
    "FgSfx": "consq_Mach1_QUEUE",
    "BgSfx": "",
@@ -242,6 +257,7 @@
  {
    "UID": "consq_queue_password",
    "TipText": "The password is \"SHOTTA\". Say it to the bouncer to get inside.\n\nBut shh! Keep it to yourself!",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "consq_queue_password",
    "BgSfx": "consq_crowd_3",
@@ -258,6 +274,7 @@
  {
    "UID": "consq_meetmike",
    "TipText": "Sounds like MIKE still carries a grudge. When you're finished here, head to the HOUSE ROOM.",
+   "PreTipText": "",
    "StorySoFarText": "As soon as you got inside you ran into an old acquaintance. MIKE holds a grudge because you used to date his sister.",
    "FgSfx": "consq_Mach1_MEETMIKE",
    "BgSfx": "",
@@ -274,6 +291,7 @@
  {
    "UID": "consq_meetpaul",
    "TipText": "Go through the balcony door to \"SMOKING AREA\".\n\nPlease DON'T smoke for real!\n\n",
+   "PreTipText": "",
    "StorySoFarText": "You moved into the House Room and met Paul. You and Paul used to have beef, but now he seems to want to let bygones be bygones.",
    "FgSfx": "consq_Mach1_MEETPAUL",
    "BgSfx": "",
@@ -290,6 +308,7 @@
  {
    "UID": "consq_meetellie",
    "TipText": "ELLIE is an old friend of your EX. She gave you some advice on how to un-fuck your life. Stay here to listen.",
+   "PreTipText": "",
    "StorySoFarText": "You also ran into ELLIE, a friend of your EX. She said your EX is here tonight. You might have a chance.",
    "FgSfx": "consq_Mach1_MEETELLIE",
    "BgSfx": "",
@@ -306,6 +325,7 @@
  {
    "UID": "consq_ellieVSplayer",
    "TipText": "Listen to Ellie and wait for Barry to catch up to you.",
+   "PreTipText": "",
    "StorySoFarText": "You decided to catch up with Ellie. She gave you a right earful, but it seems like you might still have a chance with your ex.",
    "FgSfx": "consq_Mach1_ELLIEvsPLAYER",
    "BgSfx": "",
@@ -322,6 +342,7 @@
  {
    "UID": "consq_smoking",
    "TipText": "When you're finished here, go back inside and have a seat in the House Room.",
+   "PreTipText": "",
    "StorySoFarText": "You decided to go to the Smoking Area to bury the hatchet with Paul. He keeps asking why you're still hanging out with BARRY.",
    "FgSfx": "consq_Mach1_SMOKING",
    "BgSfx": "",
@@ -338,6 +359,7 @@
  {
    "UID": "consq_post_smoking",
    "TipText": "When you're ready, go back inside (through the same door) and upstairs to the Drum & Bass room.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -354,6 +376,7 @@
  {
    "UID": "consq_paulbarry",
    "TipText": "Have a seat and listen.",
+   "PreTipText": "",
    "StorySoFarText": "Paul and BARRY caught up for a bit, then Paul left, promising to get you in the VIP later.",
    "FgSfx": "consq_Mach1_PAULBARRY",
    "BgSfx": "",
@@ -370,6 +393,7 @@
  {
    "UID": "consq_link1",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -386,6 +410,7 @@
  {
    "UID": "consq_eavesdrop_push",
    "TipText": "YOU DECIDE: stay here and see who else is about... or go to the Jungle Room to eavesdrop.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -402,6 +427,7 @@
  {
    "UID": "consq_eavesdrop",
    "TipText": "Shh! You're eavesdropping on BARRY as he buys some pills from LUCAS, the dealer.",
+   "PreTipText": "",
    "StorySoFarText": "You eavesdropped on BARRY as he bought some pills from LUCAS, the dealer.",
    "FgSfx": "",
    "BgSfx": "",
@@ -418,6 +444,7 @@
  {
    "UID": "consq_up_coming",
    "TipText": "Listen to the ROOKIE and wait for BARRY to return.",
+   "PreTipText": "",
    "StorySoFarText": "You got approached by a ROOKIE RAPPER giving out CDs.",
    "FgSfx": "",
    "BgSfx": "",
@@ -434,6 +461,7 @@
  {
    "UID": "consq_drug_push_from_up_coming",
    "TipText": "YOU DECIDE: go to the toilets to do drugs, or go forward to the Main Dance Room to find your Ex.",
+   "PreTipText": "",
    "StorySoFarText": "BARRY caught up with you and pressured you to take some pills with him... ",
    "FgSfx": "",
    "BgSfx": "",
@@ -450,6 +478,7 @@
  {
    "UID": "consq_drug_push",
    "TipText": "YOU DECIDE: Go to the toilets to do drugs with BARRY, or follow PAUL to the VIP.",
+   "PreTipText": "",
    "StorySoFarText": "BARRY caught up with you and pressured you to take some pills with him... ",
    "FgSfx": "consq_Mach1_Drug&Vip Push",
    "BgSfx": "",
@@ -466,6 +495,7 @@
  {
    "UID": "consq_toilet",
    "TipText": "You went to get high in the toilets with Barry. When you're finished here, go to the Main Dance Room.",
+   "PreTipText": "",
    "StorySoFarText": "...so you went to the toilets to get high with BARRY.",
    "FgSfx": "consq_Mach1_Toilet",
    "BgSfx": "",
@@ -482,6 +512,7 @@
  {
    "UID": "consq_no_vip_push",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -498,6 +529,7 @@
  {
    "UID": "consq_vip_push",
    "TipText": "Paul's invited you to the VIP LOUNGE! What could go wrong?\n\nFollow the signs to the VIP LOUNGE.",
+   "PreTipText": "",
    "StorySoFarText": "...but instead you went to find your EX.",
    "FgSfx": "consq_link3,consq_vip_push_cut,consq_vip_push",
    "BgSfx": "consq_crowd_3",
@@ -514,6 +546,7 @@
  {
    "UID": "consq_vip",
    "TipText": "It was a trap. Your night ends here.",
+   "PreTipText": "",
    "StorySoFarText": "Paul invited you into the VIP, but it was a trap. Mike, your Ex's brother, has been planning to corner you. Now it's just you and him.",
    "FgSfx": "consq_Mach1_VIP",
    "BgSfx": "",
@@ -530,6 +563,7 @@
  {
    "UID": "consq_exVSmike",
    "TipText": "vip drug text here",
+   "PreTipText": "",
    "StorySoFarText": "vip drug text here",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -546,6 +580,7 @@
  {
    "UID": "consq_barry_vs_lucas",
    "TipText": "Wait here while Barry makes a fool of himself.",
+   "PreTipText": "",
    "StorySoFarText": "BARRY caught up with you, furious that you didn't want to get high. He took both pills himself.",
    "FgSfx": "consq_Mach1_BarryVsLucas",
    "BgSfx": "",
@@ -562,6 +597,7 @@
  {
    "UID": "consq_spacialPush",
    "TipText": "Spatial PUSH NO DRUGS",
+   "PreTipText": "",
    "StorySoFarText": "SPATIAL DEMO",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -578,6 +614,7 @@
  {
    "UID": "consq_spacialDemo",
    "TipText": "SPATIAL AUDIO DEMO\n\nKeep your Bose Frames on!\nLet Playlines staff know you're ready.",
+   "PreTipText": "",
    "StorySoFarText": "SPACIAL DEMO NO DRUGS",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -594,6 +631,7 @@
  {
    "UID": "consq_drug_highwithbarry",
    "TipText": "Stay here to listen... you're starting to feel light-headed...",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "consq_Mach1_START",
    "BgSfx": "consq_crowd_3",
@@ -610,6 +648,7 @@
  {
    "UID": "consq_drug_spacialPush",
    "TipText": "Spatial PUSH *DRUGS*",
+   "PreTipText": "",
    "StorySoFarText": "Spatial PUSH *DRUGS*",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -626,6 +665,7 @@
  {
    "UID": "consq_drug_run_push",
    "TipText": "YOU DECIDE: leave Barry and run to the Chillout Room, or remain here.",
+   "PreTipText": "",
    "StorySoFarText": "BARRY told you to run for it...",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -642,6 +682,7 @@
  {
    "UID": "consq_drug_spacialDemo",
    "TipText": "SPATIAL AUDIO DEMO\n\nKeep your Bose Frames on!\nLet Playlines staff know you're ready.",
+   "PreTipText": "",
    "StorySoFarText": "SPACIAL DEMO NO DRUGS",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -658,6 +699,7 @@
  {
    "UID": "consq_help_push",
    "TipText": "YOU DECIDE: Go to the Chillout Room, or remain here.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "consq_crowd_3",
@@ -674,6 +716,7 @@
  {
    "UID": "consq_apology",
    "TipText": "When you're finished here, return to the Main Stage and get ready for a live performance.",
+   "PreTipText": "",
    "StorySoFarText": "You went to the Chillout Room to check on BARRY, and he apologised for what he'd put you through. ",
    "FgSfx": "",
    "BgSfx": "",
@@ -690,6 +733,7 @@
  {
    "UID": "consq_drug_apology",
    "TipText": "This is how your night ends.\n\nPlease return your Frames and phone to a member of Playlines staff.",
+   "PreTipText": "",
    "StorySoFarText": "You went to check on BARRY, and he apologised for what he'd put you through - but then your head started spinning. Your Ex and BARRY both stayed with you as the pills turned on you.",
    "FgSfx": "consq_Mach1_BarrysApology",
    "BgSfx": "",
@@ -706,6 +750,7 @@
  {
    "UID": "consq_exblackout",
    "TipText": "This is how your night ends.\n\nPlease return your Frames and phone to a member of Playlines staff.",
+   "PreTipText": "",
    "StorySoFarText": "Your Ex came to find you. She talked about what you've been missing - but then your head started spinning. She stayed as the pills turned on you.",
    "FgSfx": "",
    "BgSfx": "",
@@ -722,6 +767,7 @@
  {
    "UID": "consq_danceout",
    "TipText": "This is how your night ends.\n\nPlease return your Frames and phone to a member of Playlines staff.",
+   "PreTipText": "",
    "StorySoFarText": "You and your Ex finally had a deep-and-meaningful. It seems like she's ready to give you a second chance. That is, if you can change. You danced it out together until Harry Shotta came on live.",
    "FgSfx": "",
    "BgSfx": "",
@@ -738,6 +784,7 @@
  {
    "UID": "consq_danceout_help",
    "TipText": "This is how your night ends.\n\nPlease return your Frames and phone to a member of Playlines staff.",
+   "PreTipText": "",
    "StorySoFarText": "You and your Ex finally had a deep-and-meaningful. It seems like she's ready to give you a second chance. That is, if you can change. You danced it out together until Harry Shotta came on live.",
    "FgSfx": "",
    "BgSfx": "",
@@ -754,6 +801,7 @@
  {
    "UID": "consq_lovetriangle",
    "TipText": "Stay here and listen to the love triangle unfold.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -770,6 +818,7 @@
  {
    "UID": "consq_trainer",
    "TipText": "Stay here and listen to the gym bro.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -786,6 +835,7 @@
  {
    "UID": "consq_EndScreen",
    "TipText": "THANKS FOR PLAYING!\n\nAlternative endings in full version include:\n- Blackout on bad pills\n- Reconcile with your Ex\n- Thrown out by the bouncers!",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "consq_Mach1_END",
    "BgSfx": "",
@@ -802,6 +852,7 @@
  {
    "UID": "consq_post_blackout1",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -818,6 +869,7 @@
  {
    "UID": "consq_post_blackout2",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -834,6 +886,7 @@
  {
    "UID": "consq_TechPage1",
    "TipText": "Welcome to this special pop-up version of CONSEQUENCES for Raindance.\n\nTap play to begin.",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -850,6 +903,7 @@
  {
    "UID": "consq_TechPage2",
    "TipText": "Listen !",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "consq_Mach1_START",
    "BgSfx": "",
@@ -866,6 +920,7 @@
  {
    "UID": "consq_drunk",
    "TipText": "",
+   "PreTipText": "",
    "StorySoFarText": "",
    "FgSfx": "",
    "BgSfx": "",
@@ -882,6 +937,7 @@
  {
    "UID": "consq_vip_preset_timer",
    "TipText": "When you're finished here, go back to the Main Dance Room.",
+   "PreTipText": "",
    "StorySoFarText": "Paul invited you into the VIP, but it was a trap. Mike, your Ex's brother, has been planning to corner you. Now it's just you and him.",
    "FgSfx": "",
    "BgSfx": "",
@@ -898,6 +954,7 @@
  {
    "UID": "consq_spacialDemo2",
    "TipText": "When you're finished, head into Main Stage and press play when you're ready.",
+   "PreTipText": "",
    "StorySoFarText": "Barry accidentally started a fight with Lucas and got beaten up.",
    "FgSfx": "",
    "BgSfx": "",
@@ -914,6 +971,7 @@
  {
    "UID": "consq_vip_drug",
    "TipText": "vip drug text here",
+   "PreTipText": "",
    "StorySoFarText": "vip drug text here",
    "FgSfx": "consq_barryVSlucas_long,Consq_apology_linkin,consq_apology_drugs,consq_barryblackout",
    "BgSfx": "consq_crowd_3",
