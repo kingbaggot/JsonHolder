@@ -311,7 +311,7 @@
    ],
    "4": [
       {
-         "Curator": "painter 4 name",
+         "Curator": "Ishbel Myerscough",
          "Title": "Willard White",
          "Info": "p info",
          "Pos": "51.509574, -0.128571",
@@ -393,7 +393,7 @@
    ],
    "5": [
       {
-         "Curator": "painter 5 name",
+         "Curator": "Clemence Dane",
          "Title": "Noel Coward",
          "Info": "p info",
          "Pos": "51.511174, -0.127142",
@@ -475,7 +475,7 @@
    ],
    "6": [
       {
-         "Curator": "painter 6 name",
+         "Curator": "Albert Charles Challen",
          "Title": "Mary Seacole",
          "Info": "p info",
          "Pos": "51.510717, -0.127794",
@@ -557,7 +557,7 @@
    ],
    "7": [
       {
-         "Curator": "painter 7 name",
+         "Curator": "Christian Hook",
          "Title": "Ian McKellen",
          "Info": "p info",
          "Pos": "51.511152, -0.128251",
@@ -639,7 +639,7 @@
    ],
    "8": [
       {
-         "Curator": "painter 8 name",
+         "Curator": "Shirin Neshat",
          "Title": "Malala Yousafzai",
          "Info": "p info",
          "Pos": "51.511582, -0.129387",
@@ -721,7 +721,7 @@
    ],
    "9": [
       {
-         "Curator": "Seurat",
+         "Curator": "Georges Seurat",
          "Title": "Bathers at Asnières",
          "Info": "p info",
          "Pos": "51.509548, -0.133241",
@@ -803,7 +803,7 @@
    ],
    "10": [
       {
-         "Curator": "painter 10 name",
+         "Curator": "Liam Dickinson",
          "Title": "Imelda Staunton",
          "Info": "p info",
          "Pos": "51.509467, -0.132884",
@@ -885,8 +885,8 @@
    ],
    "11": [
       {
-         "Curator": "painter 11 name",
-         "Title": "Gentileschi",
+         "Curator": "Artemisia Gentileschi",
+         "Title": "Self Portrait as St. Catherine of Alexandria",
          "Info": "painting overdesc",
          "Pos": "51.509293, -0.133257",
          "Sound": "",
@@ -999,7 +999,7 @@
    ],
    "12": [
       {
-         "Curator": "painter 2 name",
+         "Curator": "Christabel Blackburn",
          "Title": "Nile Rodgers",
          "Info": "p info",
          "Pos": "51.510078, -0.133368",
@@ -1081,7 +1081,7 @@
    ],
    "13": [
       {
-         "Curator": "painter 3 name",
+         "Curator": "Toby Micheal",
          "Title": "Elaine Paige",
          "Info": "p info",
          "Pos": "51.509879, -0.134059",
@@ -1163,7 +1163,7 @@
    ],
    "14": [
       {
-         "Curator": "painter 4 name",
+         "Curator": "Stephen Finer",
          "Title": "David Bowie",
          "Info": "p info",
          "Pos": "51.508973, -0.136625",
@@ -1327,7 +1327,7 @@
    ],
    "16": [
       {
-         "Curator": "Van Gogh",
+         "Curator": "Vincent van Gogh",
          "Title": "Sunflowers",
          "Info": "p info",
          "Pos": "51.508459, -0.138347",
