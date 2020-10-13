@@ -311,14 +311,14 @@
    ],
    "4": [
       {
-         "Curator": "Ishbel Myerscough",
-         "Title": "Willard White",
+         "Curator": "Mr Placeholder",
+         "Title": "Nile Rogers",
          "Info": "p info",
          "Pos": "51.509574, -0.128571",
          "Sound": "",
          "tags": "National Portrait Gallery",
-         "Image": "willard",
-         "Bundle": "bunwillard",
+         "Image": "rogers",
+         "Bundle": "bunrogers",
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "",
