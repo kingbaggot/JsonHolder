@@ -149,7 +149,7 @@
          "tags": "Cecil Court bookshop",
          "Image": "seacole",
          "Bundle": "bun_seacole_",
-         "Adj": 1,
+         "Adj": 0.25,
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "",
