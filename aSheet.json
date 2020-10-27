@@ -2287,7 +2287,7 @@
          "Image": "staunton",
          "Bundle": "bun_staunton_",
          "Adj": 1,
-         "Frame": 1,
+         "Frame": null,
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "",
