@@ -16,8 +16,8 @@
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
          "InfoFR": "s1.7",
-         "InfoGER": "",
-         "InfoES": ""
+         "InfoGER": "https://www.bbc.co.uk/",
+         "InfoES": "https://www.somethingawful.com/"
       },
       {
          "Curator": "fa",
@@ -2287,7 +2287,7 @@
          "Image": "staunton",
          "Bundle": "bun_staunton_",
          "Adj": 1,
-         "Frame": null,
+         "Frame": 1,
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "",
