@@ -17,9 +17,10 @@
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
-         "InfoFR": "s2.4",
+         "InfoFR": "s2.5",
          "InfoGER": "https://drive.google.com/file/d/1V2eKUjfRMNF8r3nUBWiUL3jHlrBFspuJ/view?usp=sharing",
-         "InfoES": "https://docs.google.com/document/d/1E_6urxmzZQ4YqPMRMlmgK1nsXrwLAomeMoin8zPKUfQ/edit?usp=sharing"
+         "InfoES": "https://docs.google.com/document/d/1E_6urxmzZQ4YqPMRMlmgK1nsXrwLAomeMoin8zPKUfQ/edit?usp=sharing",
+         "Grid": 1
       },
       {
          "Curator": "fa",
@@ -40,7 +41,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -61,7 +63,8 @@
          "InsetCaption": "Infra-red scans show Titian's initial drafting and how he changed his plan.",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -82,7 +85,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -103,7 +107,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -124,7 +129,8 @@
          "InsetCaption": "Infra-red scans show Titian's initial drafting and how he changed his plan.",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -145,7 +151,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "2": [
@@ -168,7 +175,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -189,7 +197,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -210,7 +219,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -231,7 +241,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -252,7 +263,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -273,7 +285,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -294,7 +307,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -315,7 +329,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "3": [
@@ -338,7 +353,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -359,7 +375,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -380,7 +397,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -401,7 +419,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -422,7 +441,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -443,7 +463,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -464,7 +485,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -485,7 +507,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "4": [
@@ -508,7 +531,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -529,7 +553,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -550,7 +575,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -571,7 +597,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -592,7 +619,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -613,7 +641,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -634,7 +663,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "5": [
@@ -657,7 +687,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -678,7 +709,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -699,7 +731,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -720,7 +753,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -741,7 +775,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "6": [
@@ -764,7 +799,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -785,7 +821,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -806,7 +843,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -827,7 +865,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -848,7 +887,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -869,7 +909,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -890,7 +931,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -911,7 +953,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "7": [
@@ -934,7 +977,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -955,7 +999,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -976,7 +1021,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -997,7 +1043,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1018,7 +1065,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1039,7 +1087,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1060,7 +1109,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "8": [
@@ -1083,7 +1133,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -1104,7 +1155,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -1125,7 +1177,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -1146,7 +1199,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "9": [
@@ -1169,7 +1223,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -1190,7 +1245,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1211,7 +1267,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -1232,7 +1289,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -1253,7 +1311,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1274,7 +1333,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1295,7 +1355,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "10": [
@@ -1318,7 +1379,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1339,7 +1401,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1360,7 +1423,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1381,7 +1445,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1402,7 +1467,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1423,7 +1489,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1444,7 +1511,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1465,7 +1533,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "11": [
@@ -1488,7 +1557,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1509,7 +1579,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1530,7 +1601,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1551,7 +1623,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1572,7 +1645,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1593,7 +1667,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1614,7 +1689,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1635,7 +1711,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "12": [
@@ -1658,7 +1735,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1679,7 +1757,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1700,7 +1779,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1721,7 +1801,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1742,7 +1823,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1763,7 +1845,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1784,7 +1867,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "13": [
@@ -1807,7 +1891,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1828,7 +1913,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1849,7 +1935,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1870,7 +1957,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -1891,7 +1979,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1912,7 +2001,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1933,7 +2023,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -1954,7 +2045,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "14": [
@@ -1977,7 +2069,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -1998,7 +2091,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -2019,7 +2113,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -2040,7 +2135,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2061,7 +2157,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2082,7 +2179,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2103,7 +2201,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "15": [
@@ -2126,7 +2225,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -2147,7 +2247,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -2168,7 +2269,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "aa",
@@ -2189,7 +2291,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2210,7 +2313,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2231,7 +2335,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2252,7 +2357,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "16": [
@@ -2275,7 +2381,8 @@
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
          "InfoFR": "s1.2",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -2296,7 +2403,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2317,7 +2425,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -2338,7 +2447,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -2359,7 +2469,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "gt",
@@ -2380,7 +2491,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2401,7 +2513,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2422,7 +2535,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "17": [
@@ -2445,7 +2559,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2466,7 +2581,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2487,7 +2603,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2508,7 +2625,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "18": [
@@ -2531,7 +2649,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2552,7 +2671,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2573,7 +2693,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2594,7 +2715,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "19": [
@@ -2617,7 +2739,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2638,7 +2761,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2659,7 +2783,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2680,7 +2805,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "sm",
@@ -2701,7 +2827,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ],
    "20": [
@@ -2724,7 +2851,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -2745,7 +2873,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -2766,7 +2895,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -2787,7 +2917,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "fa",
@@ -2808,7 +2939,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2829,7 +2961,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2850,7 +2983,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       },
       {
          "Curator": "ja",
@@ -2871,7 +3005,8 @@
          "InsetCaption": "",
          "InfoFR": "",
          "InfoGER": "",
-         "InfoES": ""
+         "InfoES": "",
+         "Grid": null
       }
    ]
 }
