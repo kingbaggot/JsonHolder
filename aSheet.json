@@ -18,7 +18,7 @@
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
-         "InfoFR": "s3.6",
+         "InfoFR": "s3.8",
          "InfoGER": "https://drive.google.com/file/d/1V2eKUjfRMNF8r3nUBWiUL3jHlrBFspuJ/view?usp=sharing",
          "InfoES": "https://docs.google.com/document/d/1E_6urxmzZQ4YqPMRMlmgK1nsXrwLAomeMoin8zPKUfQ/edit?usp=sharing",
          "Grid": 1
@@ -827,7 +827,7 @@
          "Adj": 0.3,
          "AdjPos": "",
          "Sound": "",
-         "tags": "11-13 cecil court",
+         "tags": "11-13 Cecil Court",
          "Image": "seacole",
          "Bundle": "bun_seacole_",
          "Times": "",
@@ -1002,7 +1002,7 @@
    ],
    "7": [
       {
-         "Curator": "by Angelica Kauffman RA\n",
+         "Curator": "by Angelica Kauffman",
          "Title": "Design",
          "Tomb": "1778-80, Oil on canvas",
          "Tomb2": "Royal Academy",
@@ -1433,7 +1433,7 @@
          "Adj": 2,
          "AdjPos": "",
          "Sound": "",
-         "tags": "130 Jermyn St",
+         "tags": "130 Jermyn Street",
          "Image": "bathers",
          "Bundle": "bun_bathers_",
          "Times": "",
@@ -1608,7 +1608,7 @@
    ],
    "11": [
       {
-         "Curator": "by Eileen Agar RA",
+         "Curator": "by Eileen Agar",
          "Title": "Collective Unconscious",
          "Tomb": "1977-78, Acrylic on canvas",
          "Tomb2": "Royal Academy",
@@ -1619,7 +1619,7 @@
          "Adj": 1.24,
          "AdjPos": "",
          "Sound": "",
-         "tags": "St James market",
+         "tags": "St James Market",
          "Image": "agar",
          "Bundle": "bun_agar_",
          "Times": "",
@@ -1794,13 +1794,13 @@
    ],
    "12": [
       {
-         "Curator": "by Sonia Boyce RA",
+         "Curator": "by Sonia Boyce",
          "Title": "We Move in Her Way: Dancers",
          "Tomb": "2017, Photograph",
          "Tomb2": "Royal Academy",
          "Info": "p info",
          "Pos": "51.5094016,-0.1329288",
-         "ColAdj": null,
+         "ColAdj": 1,
          "Frame": null,
          "Adj": 0.9,
          "AdjPos": "",
@@ -1968,7 +1968,7 @@
          "Adj": 1.5,
          "AdjPos": "",
          "Sound": "",
-         "tags": "3. St. James' Market",
+         "tags": "St. James' Market",
          "Image": "diana",
          "Bundle": "bun_diana_",
          "Times": "",
@@ -2143,7 +2143,7 @@
    ],
    "14": [
       {
-         "Curator": "by Mary Moser RA",
+         "Curator": "by Mary Moser",
          "Title": "Spring",
          "Tomb": "c. 1780, Oil on canvas",
          "Tomb2": "Royal Academy",
@@ -2306,7 +2306,7 @@
    ],
    "15": [
       {
-         "Curator": "by Tracey Emin RA",
+         "Curator": "by Tracey Emin",
          "Title": "Trying to Find You I",
          "Tomb": "2007, Acrylic on canvas",
          "Tomb2": "Royal Academy",
@@ -2317,7 +2317,7 @@
          "Adj": 0.5,
          "AdjPos": "",
          "Sound": "",
-         "tags": "Tower records",
+         "tags": "Tower Records",
          "Image": "emin",
          "Bundle": "bun_emin_",
          "Times": "",
@@ -2480,16 +2480,16 @@
          "Adj": 0.87,
          "AdjPos": "",
          "Sound": "",
-         "tags": "Princes Arcade",
+         "tags": "Princess Arcade",
          "Image": "willard",
          "Bundle": "bun_willard_",
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
-         "InfoFR": "s1.2",
+         "InfoFR": "s3.8",
          "InfoGER": "",
          "InfoES": "",
-         "Grid": null
+         "Grid": 2
       },
       {
          "Curator": "gt",
@@ -2655,7 +2655,7 @@
    ],
    "17": [
       {
-         "Curator": "by Christabel Blackburn\n",
+         "Curator": "by Christabel Blackburn",
          "Title": "Nile Rodgers",
          "Tomb": "2018, Oil on linen",
          "Tomb2": "Sky portrait artist of the year",
@@ -2760,7 +2760,7 @@
          "Adj": 1,
          "AdjPos": "",
          "Sound": "",
-         "tags": "Bury st",
+         "tags": "Bury Street",
          "Image": "staunton",
          "Bundle": "bun_staunton_",
          "Times": "",
