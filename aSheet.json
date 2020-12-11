@@ -19,7 +19,7 @@
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
-         "InfoFR": "s4.152",
+         "InfoFR": "s4.153",
          "InfoGER": "https://kingbaggot.github.io/artLondon/aol_priv.html",
          "InfoES": "https://kingbaggot.github.io/artLondon/aol_tc.html",
          "Grid": 1
@@ -181,7 +181,7 @@
          "Prox": null,
          "Frame": null,
          "Adj": 0.71,
-         "AdjPos": "-1;-1",
+         "AdjPos": "-0.2;-0.2",
          "Sound": "",
          "tags": "National Gallery X",
          "Image": "gentilschi",
