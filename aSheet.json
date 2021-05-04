@@ -19,7 +19,7 @@
          "Times": "",
          "InsetImageAndTime": "",
          "InsetCaption": "https://storage.googleapis.com/artlondonbundles/buns/",
-         "InfoFR": "s7.045",
+         "InfoFR": "s7.046",
          "InfoGER": "https://drive.google.com/file/d/1V2eKUjfRMNF8r3nUBWiUL3jHlrBFspuJ/view?usp=sharing",
          "InfoES": "https://docs.google.com/document/d/1E_6urxmzZQ4YqPMRMlmgK1nsXrwLAomeMoin8zPKUfQ/edit?usp=sharing",
          "Grid": 1
@@ -861,7 +861,7 @@
          "Prox": 30,
          "Frame": null,
          "Adj": 0.3,
-         "AdjPos": "0;1",
+         "AdjPos": "0;-0.3",
          "Sound": "",
          "tags": "11-13 Cecil Court",
          "Image": "seacole",
