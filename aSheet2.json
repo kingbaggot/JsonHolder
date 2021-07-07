@@ -3582,7 +3582,7 @@
          "ColAdj": null,
          "Prox": null,
          "Frame": 3,
-         "Adj": 1,
+         "Adj": 0.8,
          "AdjPos": "",
          "Sound": "",
          "tags": "Stratton Street",
