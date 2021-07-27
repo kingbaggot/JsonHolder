@@ -3728,7 +3728,7 @@
          "ColAdj": null,
          "Prox": null,
          "Frame": 1,
-         "Adj": 1,
+         "Adj": 0.4,
          "AdjPos": "",
          "Sound": "",
          "tags": "Wolseley",
