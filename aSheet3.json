@@ -3923,7 +3923,7 @@
          "Prox": null,
          "Frame": null,
          "Adj": 1,
-         "AdjPos": "",
+         "AdjPos": "0;0.5",
          "Sound": "",
          "tags": "Berkeley Street",
          "Image": "goghChair",
